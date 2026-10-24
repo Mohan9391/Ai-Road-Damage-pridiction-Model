@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+*.mp4
+*.avi
+*.mov
+*.mkv
+runs/
+temp/
